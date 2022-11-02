@@ -3,7 +3,7 @@
 
 
   "(splatus example:) Original text": "(splatus ejemplo: el Original texto",
-  "Default Text From Spellbound Example": "Translated Text From Spellbound Example",
+  "Default Text From Ultris Example": "Translated Text From Ultris Example",
   "Anytime text includes a \n or space please put it into the translation as well": "Anytime text includes a \n or space please put it into the translation as well",
   "These 4 example translations do not have to be translated. Translate everything else below": "These 4 example translations do not have to be translated. Translate everything else below",
   
@@ -17,27 +17,6 @@
   "Click to give": "Click to give",
   "Next Page": "Next Page",
   "Previous Page": "Previous Page",
-
-  "Hover to View Recipe": "Hover to View Recipe",
-  "Locked": "Locked",
-
-  "Recipe unlocks after getting a ": "Recipe unlocks after getting a ",
-  
-
-  "Drop these items onto the ground to craft this weapon\n": "Drop these items onto the ground to craft this weapon\n",
-  "Fire Staff: ": "Fire Staff: ",
-  "Ice Staff: ": "Ice Staff: ",
-  "Electric Staff: ": "Electric Staff: ",
-  
-  "Recipe unlocks after finding an Empty Staff in a bastion": "Recipe unlocks after finding an Empty Staff in a bastion",
-  
-  "Recipe unlocks after finding a Broken Crucible in a bastion": "Recipe unlocks after finding a Broken Crucible in a bastion",
-  
-
-
-  "You have learned a new weapon recipe, ": "You have learned a new weapon recipe, ",
-  ". Use /trigger spellbound_recipes in chat to view your current recipes": ". Use /trigger spellbound_recipes in chat to view your current recipes",
-
 
 
 
