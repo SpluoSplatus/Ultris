@@ -1,0 +1,254 @@
+{
+
+
+
+  "(splatus example:) Original text": "(splatus ejemplo: el Original texto",
+  "Default Text From Spellbound Example": "Translated Text From Spellbound Example",
+  "Anytime text includes a \n or space please put it into the translation as well": "Anytime text includes a \n or space please put it into the translation as well",
+  "These 4 example translations do not have to be translated. Translate everything else below": "These 4 example translations do not have to be translated. Translate everything else below",
+  
+
+
+
+
+  "\nClick the name of an item to receive it\n": "\nClick the name of an item to receive it\n",
+  "Page": "Page",
+  "Return": "Return",
+  "Click to give": "Click to give",
+  "Next Page": "Next Page",
+  "Previous Page": "Previous Page",
+
+  "Hover to View Recipe": "Hover to View Recipe",
+  "Locked": "Locked",
+
+  "Recipe unlocks after getting a ": "Recipe unlocks after getting a ",
+  
+
+  "Drop these items onto the ground to craft this weapon\n": "Drop these items onto the ground to craft this weapon\n",
+  "Fire Staff: ": "Fire Staff: ",
+  "Ice Staff: ": "Ice Staff: ",
+  "Electric Staff: ": "Electric Staff: ",
+  
+  "Recipe unlocks after finding an Empty Staff in a bastion": "Recipe unlocks after finding an Empty Staff in a bastion",
+  
+  "Recipe unlocks after finding a Broken Crucible in a bastion": "Recipe unlocks after finding a Broken Crucible in a bastion",
+  
+
+
+  "You have learned a new weapon recipe, ": "You have learned a new weapon recipe, ",
+  ". Use /trigger spellbound_recipes in chat to view your current recipes": ". Use /trigger spellbound_recipes in chat to view your current recipes",
+
+
+
+
+  "Page 2 -->": "Page 2 -->",
+  "Page 3 -->": "Page 3 -->",
+  "Page 4 -->": "Page 4 -->",
+  "Page 5 -->": "Page 5 -->",
+  "Page 6 -->": "Page 6 -->",
+  "Page 7 -->": "Page 7 -->",
+  "Page 8 -->": "Page 8 -->",
+  
+  "<-- Page 1": "<-- Page 1",
+  "<-- Page 2": "<-- Page 2",
+  "<-- Page 3": "<-- Page 3",
+  "<-- Page 4": "<-- Page 4",
+  "<-- Page 5": "<-- Page 5",
+  "<-- Page 6": "<-- Page 6",
+  "<-- Page 7": "<-- Page 7",
+
+  "<-- Return": "<-- Return",
+
+
+
+
+  "Description:": "Description:",
+  "Click to change this setting:": "Click to change this setting",
+  "Enabled:": "Enabled:",
+  "Disabled:": "Disabled:",
+    "Please Select A Category": "Please Select A Category",
+    "Click to Summon": "Click to Summon",
+    "Summon Bosses": "Summon Bosses",
+    "Settings": "Settings",
+    "Boss Items": "Boss Items",
+    "Operator Commands": "Operator Commands",
+    "Enable": "Enable",
+    "Disable": "Disable",
+    
+ 
+
+    "Corrupted Enderman": "Corrupted Enderman",
+    "Giant": "Giant",
+    "Blaze King": "Blaze King",
+    "Ultra Wither": "Ultra Wither",
+    "Sanctum Keeper": "Sanctum Keeper",
+    "Phantom Swarm": "Phantom Swarm",
+    "Illusioner": "Illusioner",
+    "Shulker Stone": "Shulker Stone",
+
+  
+    
+    "Ultra Corrupted Enderman": "Ultra Corrupted Enderman",
+    "Ultra Giant": "Ultra Giant",
+    "Ultra Blaze King": "Ultra Blaze King",
+    "Ultra Ultra Wither": "Ultra Ultra Wither",
+    "Ultra Sanctum Keeper": "Ultra Sanctum Keeper",
+    "Ultra Phantom Swarm": "Ultra Phantom Swarm",
+    "Ultra Illusioner": "Ultra Illusioner",
+    "Ultra Shulker Stone": "Ultra Shulker Stone",
+
+
+
+
+    "Ominous Pearl": "Ominous Pearl",
+    "Spirit Bow": "Spirit Bow",
+    "Blaze King's Helmet": "Blaze King's Helmet",
+    "Shulker Shell Helmet": "Shulker Shell Helmet",
+    "Giant Stompers": "Giant Stompers",
+    "Endstone Key": "Endstone Key",
+    "Corrupt Dust": "Corrupt Dust",
+    "Enchanted Core": "Enchanted Core",
+
+    " cannot function with netherite. Drop it on the ground to revert it.": " cannot function with netherite. Drop it on the ground to revert it.",
+
+  
+
+
+
+    "Deep Vision I": "Deep Vision I",
+    "The Shulker Shell of the": "The Shulker Shell of the",
+    "Shulker Stone. When equipped,": "Shulker Stone. When equipped,",
+    "the bearer will give surrounding": "the bearer will give surrounding",
+    "mobs a glow effect, and all": "mobs a glow effect, and all",
+    "end mobs will be passive.": "end mobs will be passive.",
+
+    "Split I": "Split I",
+    "A sacred bow that harnests the": "A sacred bow that harnests the",
+    "energy of souls in the air, once": "energy of souls in the air, once",
+    "charged will split your arrow into": "charged will split your arrow into",
+    "mirrors of the Sanctum Keeper. To": "mirrors of the Sanctum Keeper. To",
+    "teleport, sneak/crouch while aiming": "teleport, sneak/crouch while aiming",
+
+    "Dropped by the Ultra Wither. When in": "Dropped by the Ultra Wither. When in",
+    "player\\'s inventory they will": "player\\'s inventory they will",
+    "gain 2 extra hearts": "gain 2 extra hearts",
+
+    "The helmet of the Blaze King, amplifies": "The helmet of the Blaze King, amplifies",
+    "the power and determination of": "the power and determination of",
+    "the bearer when at low health": "the bearer when at low health",
+
+    "Stomp your enemies with these": "Stomp your enemies with these",
+    "boots, and propell yourself through the air!": "boots, and propell yourself through the air!",
+    "You\\'ll deal damage to mobs that you": "You\\'ll deal damage to mobs that you",
+    "jump on with these boots equipped": "jump on with these boots equipped",
+    
+    "Used to reawaken the Shulker Stone": "Used to reawaken the Shulker Stone",
+    "from its deep sleep in its inverted": "from its deep sleep in its inverted",
+    "pyramid high above the End Cities": "pyramid high above the End Cities",
+
+    "Created at a Sanctum, throw this": "Created at a Sanctum, throw this",
+    "on an enderman to corrupt it": "on an enderman to corrupt it",
+
+    "Charging... - ": "Charging... - ",
+    "Spirit Bow is charged! - 25/25": "Spirit Bow is charged! - 25/25",
+
+
+    
+    "Mysterious Power": "Mysterious Power",
+    "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block": "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block",
+    "Ultris Conqueror": "Ultris Conqueror",
+    "Defeat every Ultris Boss": "Defeat every Ultris Boss",
+    "Corrupted": "Corrupted",
+    "Find and battle the corrupted Ultris Boss, Corrupted Enderman": "Find and battle the corrupted Ultris Boss, Corrupted Enderman",
+    "Weakened": "Weakened",
+    "Defeat the Corrupted Enderman": "Defeat the Corrupted Enderman",
+    "No Giant Is Stronger Than Me!": "No Giant Is Stronger Than Me!",
+    "Defeat the Giant": "Defeat the Giant",
+    "Green Giant": "Green Giant",
+    "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.": "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.",
+    "Fountain of Youth?": "Fountain of Youth?",
+    "Throw a weakness potion at a zombie and turn it into a... baby zombie.": "Throw a weakness potion at a zombie and turn it into a... baby zombie.",
+    "What Species is That?": "What Species is That?",
+    "Find a pig with strange purple particles...": "Find a pig with strange purple particles...",
+    "Porky Illusions": "Porky Illusions",
+    "Encounter the magical Ultris Boss, the Illusioner.": "Encounter the magical Ultris Boss, the Illusioner.",
+    "Shows Over!": "Shows Over!",
+    "Defeat the Illusioner": "Defeat the Illusioner",
+    "Together In The Dark": "Together In The Dark",
+    "Bring out the friends of the lone phantom and discover the Phantom Swarm": "Bring out the friends of the lone phantom and discover the Phantom Swarm",
+    "Phantom Slayer": "Phantom Slayer",
+    "Defeat the Phantom Swarm": "Defeat the Phantom Swarm",
+    "Alone In The Dark..?": "Alone In The Dark..?",
+    "Find a phantom all alone by itself in the vastness of the end...": "Find a phantom all alone by itself in the vastness of the end...",
+    "Flame Out!": "Flame Out!",
+    "Set flame to a phantom in the end and remove its abillity to summon other phantoms": "Set flame to a phantom in the end and remove its abillity to summon other phantoms",
+    "Ultris: Minecraft Boss Expansion": "Ultris: Minecraft Boss Expansion",
+    "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.": "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.",
+    "Ultra Withering Heights": "Ultra Withering Heights",
+    "Throw an Enchanted Command Block at a Wither, summon the Ultris Boss, Ultra Wither\n\nCommand Blocks unlock after defeating Corrupted Enderman": "Throw an Enchanted Command Block at a Wither, summon the Ultris Boss, Ultra Wither\n\nCommand Blocks unlock after defeating Corrupted Enderman",
+    "Double It Up!": "Double It Up!",
+    "Throw a second command block at the Ultra Wither to receive more XP after defeation": "Throw a second command block at the Ultra Wither to receive more XP after defeation",
+    "Ultra Demise": "Ultra Demise",
+    "Defeat the Ultra Wither": "Defeat the Ultra Wither",
+    "The Kings Residence": "The Kings Residence",
+    "Enter the Blaze Kings Tower inside a nether fortress": "Enter the Blaze Kings Tower inside a nether fortress",
+    "High Sky Pyramid": "High Sky Pyramid",
+    "Discover a mysterious pyramid high above an end city": "Discover a mysterious pyramid high above an end city",
+    "Awaken": "Awaken",
+    "Awaken the blazing Ultris Boss, Blaze King": "Awaken the blazing Ultris Boss, Blaze King",
+    "Into Ashes": "Into Ashes",
+    "Defeat the Blaze King": "Defeat the Blaze King",
+    "Sealed Secrets": "Sealed Secrets",
+    "Reach the top of the pyramid and insert an Endstone Key to the pedestol by right clicking its shimmering end rod": "Reach the top of the pyramid and insert an Endstone Key to the pedestol by right clicking its shimmering end rod",
+    "Awaken at Kingdom's End": "Awaken at Kingdom's End",
+    "Awaken the Ultris boss, ruler of the shulkers, the Shulker Stone": "Awaken the Ultris boss, ruler of the shulkers, the Shulker Stone",
+    "True Form": "True Form",
+    "Shoot a spectral arrow at the shulker stone, and question the mob it really is": "Shoot a spectral arrow at the shulker stone, and question the mob it really is",
+    "Back to Eternal Sleep": "Back to Eternal Sleep",
+    "Defeat the Shulker Stone": "Defeat the Shulker Stone",
+    "Ominous Compass": "Ominous Compass",
+    "Forge a Ominous Eye Of Ender in a Smithing Table with an ominous pearl and blaze powder": "Forge a Ominous Eye Of Ender in a Smithing Table with an ominous pearl and blaze powder",
+    "Collector of Souls": "Collector of Souls",
+    "Find the Ultris Boss, Sanctum Keeper": "Find the Ultris Boss, Sanctum Keeper",
+    "Free the Sanctum": "Free the Sanctum",
+    "Defeat the Sanctum Keeper": "Defeat the Sanctum Keeper",
+    "orruptions Birthplace": "orruptions Birthplace",
+    "Find the Corruption lab inside the Sanctum": "Find the Corruption lab inside the Sanctum",
+    "Mad Scienctist": "Mad Scienctist",
+    "Create some corrupt dust within the Corruption Lab": "Create some corrupt dust within the Corruption Lab",
+    "The Sanctum's Corrupter": "The Sanctum's Corrupter",
+    "Throw corrupt dust on a enderman and convert it into a Corrupted Enderman.": "Throw corrupt dust on a enderman and convert it into a Corrupted Enderman.",
+    "Feels Like Home": "Feels Like Home",
+    "Hold an emerald in front of the Sanctum Keepers soul and lead it all the way to a village.": "Hold an emerald in front of the Sanctum Keepers soul and lead it all the way to a village.",
+    "Lost and Forgotten": "Lost and Forgotten",
+    "Find the sacred stronghold, the Sanctum": "Find the sacred stronghold, the Sanctum",
+    "Released": "Released",
+    "Free a trapped soul from a glass container": "Free a trapped soul from a glass container",
+    "The Sanctum's Repairer": "The Sanctum's Repairer",
+    "Run out of the Fortified Sanctum's XP Machine uses, then throw a diamond on top of it to repair it": "Run out of the Fortified Sanctum's XP Machine uses, then throw a diamond on top of it to repair it",
+    "Bookshelves Everywhere!": "Bookshelves Everywhere!",
+    "Find the Fortified Sanctum's Library": "Find the Fortified Sanctum's Library",
+    "High Class": "High Class",
+    "Find the the Sanctum varient, the Fortified Sanctum": "Find the the Sanctum varient, the Fortified Sanctum"
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
